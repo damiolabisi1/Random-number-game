@@ -21,7 +21,7 @@ import math
 import random 
 
 print ("Hey welcome to your guessing game")
-print ("Do you think it has what it takes to guess a randomly generated number in 5 trials?")
+print ("Do you think it have what it takes to guess a randomly generated number in 5 trials?")
 print ("Your aim is to guess the random number generated GOODLUCK!")
 max_num = int ( input("Input a maximum number (i.e. If you input 100 the code generates a random number between 1 - 100): ") ) 
 random_num = random.randint (1, max_num)
